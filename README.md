@@ -50,7 +50,7 @@ The script will perform the following steps:
 
 The model's performance is evaluated using the Mean Absolute Error (MAE) metric. The validation MAE achieved by the Random Forest Regressor model is reported in the console output.
 
-The final predictions for the test dataset are saved in the `submission_for_kaggle_forecasting.csv` file.
+The final predictions for the test dataset are saved in the `submission_for_forecasting.csv` file.
 
 ## Future Enhancements
 
