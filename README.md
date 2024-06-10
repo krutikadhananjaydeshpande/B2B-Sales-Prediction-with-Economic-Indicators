@@ -14,12 +14,6 @@ The project utilizes the following datasets:
 
 The repository is structured as follows:
 
-- `data/`: Directory containing the CSV files used for training and testing.
-- `notebooks/`: Directory for Jupyter notebooks used in exploratory data analysis or other experiments.
-- `src/`: Directory holding modular Python scripts for different stages of the project.
-  - `data_preprocessing.py`: Script for data preprocessing tasks.
-  - `feature_engineering.py`: Script for feature engineering tasks.
-  - `model_training.py`: Script for model training and evaluation.
 - `sales_forecasting.py`: Main script that orchestrates the entire sales forecasting pipeline.
 
 ## Dependencies
